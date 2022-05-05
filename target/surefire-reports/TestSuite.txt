@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 62.658 sec <<< FAILURE! - in TestSuite
+verifyPurchaseWithInfo(com.demoblaze.testcases.PaymentInfoPageTest)  Time elapsed: 0.343 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Thank you for your purchase] but found [Thank you for your purchase!]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at com.demoblaze.testcases.PaymentInfoPageTest.verifyPurchaseWithInfo(PaymentInfoPageTest.java:51)
+

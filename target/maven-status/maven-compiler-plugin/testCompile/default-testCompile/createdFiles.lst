@@ -1,0 +1,6 @@
+com\demoblaze\testcases\CartPageTest.class
+com\demoblaze\testcases\LoginPageTest.class
+com\demoblaze\testcases\SignUpPageTest.class
+com\demoblaze\testcases\PaymentInfoPageTest.class
+com\demoblaze\testcases\HomePageTest.class
+com\demoblaze\testcases\ProductInfoPageTest.class

@@ -1,0 +1,10 @@
+com\demoblaze\pages\LoginPage.class
+com\demoblaze\pages\PaymentInfoPage.class
+com\demoblaze\util\TestUtil.class
+com\demoblaze\util\BrowserFactory.class
+com\demoblaze\base\TestBase.class
+com\demoblaze\pages\ProductInfoPage.class
+com\demoblaze\pages\CartPage.class
+com\demoblaze\pages\HomePage.class
+com\demoblaze\util\Reporting.class
+com\demoblaze\pages\SignUpPage.class

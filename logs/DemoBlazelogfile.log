@@ -1,0 +1,300 @@
+2022-04-28 15:15:38,396 - com.demoblaze.pages.SignUpPage -INFO - Going to Sign Up Page
+2022-04-28 15:16:33,844 - com.demoblaze.pages.SignUpPage -INFO - Going to Sign Up Page
+2022-04-28 15:17:43,543 - com.demoblaze.pages.SignUpPage -INFO - Going to Sign Up Page
+2022-04-28 15:21:03,511 - com.demoblaze.pages.SignUpPage -INFO - Going to Sign Up Page
+2022-04-28 15:23:32,032 - com.demoblaze.pages.SignUpPage -INFO - Going to Sign Up Page
+2022-04-28 15:25:08,838 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-04-28 15:32:03,535 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-04-28 15:32:04,044 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: CSlyNeYm@gmail.com
+2022-04-28 15:32:05,769 - DemoBlaze Automation -INFO - New User succesfully created
+2022-04-28 15:42:28,577 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-04-28 07:02:52,620 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-04-28 07:02:54,081 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: bjEhDqFj@gmail.com
+2022-04-28 07:03:03,878 - DemoBlaze Automation -INFO - New User successfully created
+2022-04-28 07:03:03,945 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-04-28 07:03:05,064 - DemoBlaze Automation -INFO - Going to Login Page
+2022-04-28 07:03:11,942 - DemoBlaze Automation -INFO - Going to Login Page
+2022-04-28 07:03:17,420 - DemoBlaze Automation -INFO - Going to Login Page
+2022-04-28 07:03:22,684 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-04-28 07:03:37,264 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-04-28 07:03:37,284 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-04-28 07:03:43,266 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-04-28 07:03:43,272 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-04-28 07:03:49,530 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-04-28 07:03:49,533 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-04-28 07:03:49,643 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-04-28 07:03:49,976 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-04-28 07:03:50,291 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-04-28 07:03:50,292 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-04-28 07:03:50,297 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-04-28 07:03:50,937 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-04-28 07:03:51,063 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-04-28 23:56:55,629 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-04-28 23:56:56,781 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: FOoREkQg@gmail.com
+2022-04-28 23:56:59,434 - DemoBlaze Automation -INFO - New User successfully created
+2022-04-28 23:56:59,645 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-04-28 23:57:07,044 - DemoBlaze Automation -INFO - Going to Login Page
+2022-04-28 23:57:14,878 - DemoBlaze Automation -INFO - Going to Login Page
+2022-04-28 23:57:22,406 - DemoBlaze Automation -INFO - Going to Login Page
+2022-04-28 23:57:27,629 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-04-28 23:57:51,966 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-04-28 23:57:56,935 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-04-28 23:58:04,020 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-04-28 23:58:04,077 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-04-28 23:58:09,541 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-04-28 23:58:09,562 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-04-28 23:58:20,550 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-04-28 23:58:21,363 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-04-28 23:58:31,051 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-04-28 23:58:31,053 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-04-28 23:58:31,060 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-04-28 23:58:32,691 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-04-28 23:58:32,797 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-04 00:51:23,687 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-04 00:51:24,322 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: JCkvVimX@gmail.com
+2022-05-04 00:51:26,121 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-04 00:51:26,189 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-04 00:51:29,484 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 00:51:35,849 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 00:51:41,883 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 00:51:46,933 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-05-04 00:52:01,410 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 00:52:01,419 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-04 00:52:07,454 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 00:52:07,460 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-04 00:52:13,169 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 00:52:13,175 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-04 00:52:13,313 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-04 00:52:13,698 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-04 00:52:14,034 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-05-04 00:52:14,037 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-04 00:52:14,041 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-04 00:52:14,771 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-05-04 00:52:14,956 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-04 22:28:22,174 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-04 22:29:32,890 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-04 22:29:33,843 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: ZhLSYTnZ@gmail.com
+2022-05-04 22:29:37,932 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-04 22:29:37,991 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-04 22:29:39,833 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 22:29:48,456 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 22:29:58,064 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 22:30:03,250 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-05-04 22:30:36,882 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 22:30:36,889 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-04 22:30:43,533 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 22:30:43,537 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-04 22:30:48,992 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 22:30:48,995 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-04 22:30:49,127 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-04 22:30:49,459 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-04 22:30:49,771 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-05-04 22:30:49,772 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-04 22:30:49,777 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-04 22:30:50,810 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-05-04 22:30:50,940 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-04 23:41:54,970 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-04 23:41:55,292 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: OOqRJJmP@gmail.com
+2022-05-04 23:41:58,506 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-04 23:41:58,593 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-04 23:42:01,703 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 23:42:09,992 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 23:42:16,786 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 23:42:21,515 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-05-04 23:42:41,599 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 23:42:41,601 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-04 23:42:47,998 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 23:42:48,002 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-04 23:42:53,618 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 23:42:53,620 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-04 23:42:53,681 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-04 23:42:53,928 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-04 23:42:54,042 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-05-04 23:42:54,043 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-04 23:42:54,046 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-04 23:42:54,372 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-05-04 23:42:54,417 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-04 23:54:46,854 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-04 23:54:47,153 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: rqYWiDPj@gmail.com
+2022-05-04 23:54:53,705 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-04 23:54:53,720 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-04 23:54:54,203 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 23:55:01,040 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 23:55:06,839 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-04 23:55:11,609 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-05-04 23:55:32,012 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 23:55:32,014 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-04 23:55:38,376 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 23:55:38,377 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-04 23:55:44,031 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-04 23:55:44,032 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-04 23:55:44,072 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-04 23:55:44,322 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-04 23:55:44,446 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-05-04 23:55:44,447 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-04 23:55:44,451 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-04 23:55:44,769 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-05-04 23:55:44,823 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 02:01:39,685 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-05 02:01:41,004 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: MSGWJGBA@gmail.com
+2022-05-05 02:01:43,255 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-05 02:01:43,276 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-05 02:01:48,396 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 02:01:53,978 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 02:01:58,853 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 02:02:03,619 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-05-05 02:02:18,166 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 02:02:18,168 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-05 02:02:24,093 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 02:02:24,096 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-05 02:02:29,733 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 02:02:29,734 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-05 02:02:29,770 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-05 02:02:30,009 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-05 02:02:30,110 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-05-05 02:02:30,110 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 02:02:30,112 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-05 02:02:30,461 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-05-05 02:02:30,498 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 02:04:39,573 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-05 02:04:40,142 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: MyiCGbwP@gmail.com
+2022-05-05 02:04:42,221 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-05 02:04:42,240 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-05 02:04:42,739 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 02:04:48,320 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 02:04:53,967 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 02:05:25,118 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 02:05:25,143 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-05 02:05:31,092 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 02:05:31,094 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-05 02:05:37,142 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 02:05:37,143 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-05 02:05:37,427 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-05 02:05:38,202 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-05 02:05:48,536 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-05 15:16:13,676 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-05 15:16:14,142 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: yhiKAVVO@gmail.com
+2022-05-05 15:16:16,719 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-05 15:16:16,795 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-05 15:16:17,778 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 15:16:27,611 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 15:16:34,429 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 15:16:39,675 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-05-05 15:17:38,013 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 15:17:38,021 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-05 15:17:45,478 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 15:17:45,481 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-05 15:17:52,494 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 15:17:52,498 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-05 15:17:56,404 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-05 15:17:56,758 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-05 15:17:57,080 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-05-05 15:17:57,081 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 15:17:57,085 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-05 15:17:58,009 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-05-05 15:17:58,132 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 15:19:26,072 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-05 15:19:26,468 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: JxpquErZ@gmail.com
+2022-05-05 15:19:29,266 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-05 15:19:29,330 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-05 15:19:30,436 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 15:19:44,816 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 15:20:06,561 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 15:20:11,915 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-05-05 15:20:56,206 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 15:20:56,213 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-05 15:21:09,903 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 15:21:09,906 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-05 15:21:15,238 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 15:21:15,241 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-05 15:21:18,176 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-05 15:21:18,533 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-05 15:21:19,005 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-05-05 15:21:19,006 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 15:21:19,011 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-05 15:21:19,854 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-05-05 15:21:19,985 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 19:58:56,370 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-05 19:58:57,147 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: JTGVzIGB@gmail.com
+2022-05-05 19:59:00,140 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-05 19:59:00,218 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-05 19:59:01,220 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 19:59:08,773 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 19:59:15,566 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 19:59:20,847 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-05-05 19:59:38,340 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 19:59:38,350 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-05 19:59:45,175 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 19:59:45,179 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-05 19:59:51,013 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 19:59:51,020 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-05 19:59:51,315 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-05 19:59:51,622 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-05 19:59:51,943 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-05-05 19:59:51,945 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 19:59:51,949 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-05 19:59:52,896 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-05-05 19:59:53,039 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 20:34:28,473 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-05 20:34:28,833 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: dSkNIYlJ@gmail.com
+2022-05-05 20:34:30,097 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-05 20:34:30,111 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-05 20:34:30,987 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 20:34:36,136 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 20:34:41,503 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 20:34:46,210 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-05-05 20:34:58,593 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 20:34:58,595 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-05 20:35:04,337 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 20:35:04,338 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-05 20:35:09,430 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 20:35:09,431 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-05 20:35:09,463 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-05 20:35:09,701 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-05 20:35:09,841 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-05-05 20:35:09,841 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 20:35:09,842 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-05 20:35:10,074 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-05-05 20:35:10,106 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 20:41:08,130 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-05 20:41:08,467 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: MijQJFCk@gmail.com
+2022-05-05 20:41:18,453 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-05 20:41:18,467 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-05 20:41:18,971 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 20:41:54,722 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 20:42:00,728 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 20:42:05,463 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-05-05 20:42:25,720 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 20:42:25,722 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-05 20:42:31,416 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 20:42:31,418 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-05 20:42:36,670 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 20:42:36,671 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-05 20:42:36,709 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-05 20:42:36,957 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-05 20:42:37,035 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-05-05 20:42:37,035 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 20:42:37,036 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-05 20:42:37,315 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-05-05 20:42:37,350 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 21:08:44,313 - DemoBlaze Automation -INFO - Going to Sign Up Page
+2022-05-05 21:08:44,625 - DemoBlaze Automation -INFO - Registering new user on DemozBlaze User: tIOREabL@gmail.com
+2022-05-05 21:08:45,856 - DemoBlaze Automation -INFO - New User successfully created
+2022-05-05 21:08:45,870 - DemoBlaze Automation -INFO - Getting data from Excel File
+2022-05-05 21:08:46,438 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 21:08:52,010 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 21:08:57,931 - DemoBlaze Automation -INFO - Going to Login Page
+2022-05-05 21:09:02,651 - DemoBlaze Automation -INFO - Valid user-Nilesh01
+2022-05-05 21:09:14,612 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 21:09:14,615 - DemoBlaze Automation -INFO - Go to Cart Page
+2022-05-05 21:09:22,399 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 21:09:22,400 - DemoBlaze Automation -INFO - Verifying Whether First item is displayed after deleting it
+2022-05-05 21:09:32,596 - DemoBlaze Automation -INFO - Initiating Cart Page Constructor
+2022-05-05 21:09:32,597 - DemoBlaze Automation -INFO - Verifying whether Total table price shown on page is equal to the sum of price of all items
+2022-05-05 21:09:32,628 - DemoBlaze Automation -INFO - Going to Payment Page
+2022-05-05 21:09:32,863 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithoutInfo
+2022-05-05 21:09:33,070 - DemoBlaze Automation -INFO - Get Pop ups alert text
+2022-05-05 21:09:33,071 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
+2022-05-05 21:09:33,072 - DemoBlaze Automation -INFO - Send Order details in Payment Page
+2022-05-05 21:09:33,304 - DemoBlaze Automation -INFO - Click on Purchase Button-->verifyPurchaseWithInfo
+2022-05-05 21:09:33,336 - DemoBlaze Automation -INFO - Verifying Purchase Page without entering any order details
